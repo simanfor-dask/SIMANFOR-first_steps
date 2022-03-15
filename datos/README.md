@@ -18,3 +18,5 @@
 		* factor_expansion: es el número de árboles al que representa el árbol sujeto a nivel de hectárea. Se calcula así: (10.000 m2) / (superficie parcela en m2)  
 		* dbh: diámetro del árbol (cm)  
 		* h: altura del árbol (m) 
+  
+	- los demás archivos contienen datos del IFN2 e IFN3 previamente completados y filtrados con las parcelas útiles para los modelos IBERO-PT e IBERO-PS
