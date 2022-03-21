@@ -3,6 +3,7 @@ Repositorio para alojar material que permita dar los primeros pasos en el uso de
   
 # Contenido
 Los contenidos de este repositorio se estructuran de la siguiente manera:
+- analisis_resultados: en esta carpeta encontrarás scripts u otra información relativa al análisis de los resultados que ofrece SIMANFOR
 - datos: en esta carpeta podrás encontrar información relativa a los inventarios    
 - modelos: información detallada de los modelos disponibles en la web de SIMANFOR
 - resultados: en esta carpeta podrás encontrar información relativa a los resultados de las simulaciones hechas con SIMANFOR
