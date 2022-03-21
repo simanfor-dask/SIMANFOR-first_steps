@@ -51,8 +51,9 @@ library(tidyverse)
 
 ### establecer directorio de trabajo
 
-# el directorio de trabajo es la carpeta de tu ordenador donde tienes los resultados obtenidos de SIMANFOR y donde quieres que se 
-# exporte el material que obtengas con R (gráficos, datos...). Copia la ruta que quieras a continuación entre las ""
+# el directorio de trabajo es la carpeta de tu ordenador donde tienes los RESULTADOS obtenidos de SIMANFOR y sobre el que trabajaremos
+# Copia dicha ruta a continuación entre las "", y asegúrate de que en dicha carpeta SOLO tienes archivos con los RESULTADOS de la 
+# simulación (NO les cambies el nombre a los archivos, sino el script te dará errores)
 general_dir <- "escribe aquí la ruta a tu carpeta SIN ESPACIOS"
 # ¡ATENCIÓN! Debes cambiar las \ de la ruta por /, sino obtendrás un error; ningún nombre de carpeta debe tener un espacio, de ser así, cambia el nombre de tu carpeta
 
