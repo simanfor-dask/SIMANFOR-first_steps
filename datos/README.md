@@ -1,11 +1,11 @@
 # Contenido:
   
-- Ppinaster_CyL-datos_ejemplo.xlsx: estructura de inventario de con datos ejemplo para Pinus pinaster en Castilla y León.
-- Psilvestris_CyL-datos_ejemplo.xlsx: estructura de inventario de con datos ejemplo para Pinus sylvestris en Castilla y León.
+- Ppinaster_CyL-datos_ejemplo.xlsx: estructura de inventario de con datos ejemplo para Pinus pinaster en Castilla y León. Pueden utilizarse con los modelos Ppinaster__sim__v01/2.
+- Psilvestris_CyL-datos_ejemplo.xlsx: estructura de inventario de con datos ejemplo para Pinus sylvestris en Castilla y León. Pueden utilizarse con los modelos Psylvestris__sisc__v01/2.
+- Pnigra_CyL-datos_ejemplo.xlsx: estructura de inventario de con datos ejemplo para Pinus sylvestris en Castilla y León. Pueden utilizarse con  modelos Pnigra_stand__CyL__v01.
+
+Los 3 archivos mencionados anteriormente fueron rellenados con datos de parcelas obtenidas de las distintas calidades de estación propuestas en: [Del Río et al. (2006)](https://medioambiente.jcyl.es/web/jcyl/binarios/566/228/01-GESTION%20FOREST_CORREGIDO2.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobheadername1=Cache-Control&blobheadername2=Expires&blobheadername3=Site&blobheadervalue1=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue2=0&blobheadervalue3=JCYL_MedioAmbiente&blobnocache=true)  
   
-Los 2 archivos mencionados anteriormente fueron rellenados con datos de parcelas obtenidas de las distintas calidades de estación propuestas en: [Del Río et al. (2006)](https://medioambiente.jcyl.es/web/jcyl/binarios/566/228/01-GESTION%20FOREST_CORREGIDO2.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobheadername1=Cache-Control&blobheadername2=Expires&blobheadername3=Site&blobheadervalue1=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue2=0&blobheadervalue3=JCYL_MedioAmbiente&blobnocache=true)  
-  
-- IFN: carpeta que contiene datos del Inventario Forestal Nacional
 	
 # Datos ejemplo:
   
